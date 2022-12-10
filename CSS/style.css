@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.flex-container {
+    display: flex;
+    background-color: darkgoldenrod;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+.background {
+    display: flex;
+    flex-direction: column;
+    border:1px solid royalblue;
+    background-image: url('/image/imagebg2.jpg');
+    background-repeat: no-repeat;
+    background-size: 1550px 750px;
+    padding: 150px;
+}  
